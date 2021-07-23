@@ -14,7 +14,11 @@ Do You want to **Play** the Game : [Let's Play](https://replit.com/@Shashank-Jha
 
 I have used _JavaScript(node.js)_ to build this simple **meQuiz** app
 
-**_To make the CLI look Beautiful_**, I have used :<br> [x] chalk<br> [x] figlet<br>
+**_To make the CLI look Beautiful_**, I have used :
+
+1. **_chalk_**
+1. **_figlet_**
+
 **npm modules**
 
 # Requirements:
